@@ -1,0 +1,8 @@
+body {
+    background-image: url('/project/webroot/image.png'); /*Путь к изображению фона */
+    background-size: cover; /* Для растягивания изображения на весь экран */
+    background-position: center; /* Для центрирования изображения */
+    background-repeat: no-repeat; /* Чтобы изображение не повторялось */
+    color: #333;
+    font-family: Arial, sans-serif;
+}
