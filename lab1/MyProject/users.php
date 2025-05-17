@@ -13,18 +13,17 @@ spl_autoload_register(function ($class) {
 use MyProject\Classes\User;
 use MyProject\Classes\SuperUser;
 
-$user1 = new User("Антон", "Bobordiro_crocodilo", "PASA123");
-$user2 = new User("Володя", "vovan213", "321321cxz");
-$user3 = new User("Катя", "katya21", "dsafwqewq");
+$user1 = new User("Антон", "Bobrito_bondito", "321321");
+$user2 = new User("Александр", "tralalelo_tralala", "3o4o24");
+$user3 = new User("Аня", "Lavaka_saturno_saturnita", "321kljkl3");
 
 $user1->showInfo();
 $user2->showInfo();
 $user3->showInfo();
 
-$user = new SuperUser("Александр", "Andreev57", "Ansergey20", "admin");
+$user = new SuperUser("Антон", "NIZAMOW202", "antonchik23", "admin");
 $user->showInfo();
 $user->getInfo();
 
 echo "<p>Всего обычных пользователей: " . User::$userCount . "\n</p>";
 echo "<p>Всего cупер-пользователей: " . SuperUser::$superUserCount . "\n</p>";
-
