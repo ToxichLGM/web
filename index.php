@@ -126,9 +126,9 @@
                 <ul>
                     <li><a href="http://f1127675.xsph.ru/lab3/patterns/singleton/settings_use.php">Singleton</a></li>
                     <li><a href="http://f1127675.xsph.ru/lab3/patterns/factory_use.php">Factory Method</a></li>
-                    <li><a href="//www.plantuml.com/plantuml/png/dLBDQl905DtFKzo5y2LyIFSkMg4lK0fTopHEPM2IoCoaFuYWqbtx0Dtq7QmqL6tr6UwyKMyIHsEpqrNkEUUUUmPFrrYkRHOhzW_m3JTkXhcRk6VCSUMc4E0SFzpKpTo4ljR4RjmBhW3N-8rp8gOXuxV6QXvPY1Gt1gxJp0eD8mRq-p_aseWWqwe3f9B98En0B1z57qPqsSfeNEcqIFf21yJUfv98Rpe6DcQiShvCbHAHbMdYtNkzA4r8c4KsYFPi1owurlmfFBRs2UgeAU1I31NST3dSlp6qu4zdnU0rpJH7T7ZmkE83iVUetbfVsqNU9GKV_JY3N_UgbeYvL2NMtcD3KZ-akh-JjkwaDhQNy5XuH74Fd1QcUamZZ9LMYJyOULgHs1CEKIlVYw9HtNByn2qkS8uRN68EPu1VD2nmIVGIVt1R5lMLLVzJktrUQmmhiZR0msV9LDKjz-jpiLgVkvGlYzKl">Диаграмма классов</a></li>
+                    <li><a href="//www.plantuml.com/plantuml/png/dL9B3jCm4Dtx5BEeH2BKik-YLE8228brPL9JMNAIodRug5HgAtPm03RS8I0Ysa9xXl6DcCHrav1Ting_z-RD6sNcnd9jYrIn9u3VyE8EMBcT-umLdjmU8YpnXzkxWzjHTIRsuhxW2V2CVx0aOXyp_iPOpHCBYUB6mAkyi4B3XW5zJzTS6n4LMas1L39RnLD8vGUnX0rDjZBPUfqMsLBeYDXtkIGoc6w1RHdppYzofKHYPPu5zyKYoJCI5ecDaZixXUTSQ_unxbk715tKr70Z1WyFNThvhmqrXD55_GYQOPeU7RSUB_bAt3sWqn5Mlp63qBqKTuEHIBbKlSt6C5gJxdskbm4FuhTI6xl8U2e2edW07WtaLse3MMcL-7ymcLgHsG0_D8pkytjzSdHu5Vx2A_x44Yzun0gU0Vx6ae0ZqKVyYzVcPByo_yV6uq-ppl6mEl0GRKkYPhSpRXowxxhNjtO41YOJGXgjT_T0NR8vxLAawXy0">Диаграмма классов</a></li>
                     <li><a href="http://f1127675.xsph.ru/lab3/patterns/mvc/mvc_use.php">MVC</a></li>
-                    <li><a href="https://www.plantuml.com/plantuml/svg/RL513e8m4Bpt5HjE4k437Wo9yQW74xsQJMa8iHIpBHgZ_DsbWb3qs9cTcTrfPXsIQoeDrKqASKLvmK91nAy8dW90QhGMZbRHfZQEQgqLUG8WXOPX2oj08dnuR7a-ozfOHurqYnW-61JATGuCZBEj6As_XWOhnJEiBqtHOvpvWwaAIns2GNBWauGMoKmTZqlkMUQNdFfsn84D_XBRpYfaXiDsI9UylfjJgUxzWKiWPN8k8aU7GnSpSIk4cDMTfg-rx-alCSrXRSO9_9_Y3G00.svg">Ещё диаграмма классов</a></li>
+                    <li><a href="https://www.plantuml.com/plantuml/png/RP7FJeD04CRl-nIJdY2M5_3GD34UFEZ1HA_DP1a9wVuniukDgNrtPxM0Wt3RtxVVRmROfuoS1-_CEzeZTWGR_s4tS3O0rc5Ay9A8xsB879qZBe4y3Go24zm2CkFd3xiv76mCAVDWSrN3BuEESZ48cEzUpAIUXG4zoHtfzw6xCfdvZv77tcce9YlFLYksYtOzB_aajQgUaZbuZcuzk2ygdOmlzeXyRECflFPqWlErmXHQugh5ZEEtM9G1-f29tz0IbEh3U5fpZ0fbk1XZ5Z-iQRvsKDXQe3OrVmyIx_GIPY_31---0G00">Вторая диаграмма классов</a></li>
                 </ul>
             </li>
 
