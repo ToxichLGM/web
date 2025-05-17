@@ -91,8 +91,8 @@
         <ul>
             <li><a href="#">Лабораторная работа №1</a>
                 <ul>
-                    <li><a href="http://f1120905.xsph.ru/lab1/MyProject/users.php">Задание 1</a></li>
-                    <li><a href="http://f1120905.xsph.ru/lab1/MyProject/uml.html">Диаграмма</a></li>
+                    <li><a href="http://f1127675.xsph.ru/lab1/MyProject/users.php">Задание 1</a></li>
+                    <li><a href="http://f1127675.xsph.ru/lab1/MyProject/uml.html">Диаграмма</a></li>
                 </ul>
             </li>
             
