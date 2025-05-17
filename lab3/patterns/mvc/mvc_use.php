@@ -7,8 +7,8 @@ require_once 'MarkdownView.php';
 
 // 1. Model (Data)
 $users = [
-    new User('Александр', 'Admin', 'Ansergey77@gmail.com'),
-    new User('Ольга', 'Meneger', 'olga@gmail.com'),
+    new User('Антон', 'Admin', 'antoshaka@gmail.com'),
+    new User('Ада', 'Meneger', 'ada@gmail.com'),
     new User('Олег', 'Visiter', 'oleg@gmail.com'),
 ];
 
