@@ -1,0 +1,75 @@
+/* Общие стили */
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(to right, #ff7e5f, #feb47b); /* красивый градиент */
+    color: #333;
+    padding: 20px;
+}
+
+/* Стили для навигации */
+nav {
+    background-color: rgba(255, 255, 255, 0.1);
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 30px;
+}
+
+/* Стили для списков */
+ul {
+    list-style-type: none; /* Убираем стандартные маркеры */
+    padding-left: 0;
+}
+
+ul > li {
+    margin: 10px 0;
+}
+
+ul > li > a {
+    text-decoration: none;
+    color: #0044cc;
+    font-size: 1.1em;
+    transition: all 0.3s ease;
+}
+
+ul > li > a:hover {
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.2);
+    padding-left: 10px;
+    border-radius: 4px;
+}
+
+/* Стили для заголовков лабораторных работ */
+ul > li > a::before {
+    content: "🔹 ";
+    color: #fff;
+    font-size: 1.3em;
+}
+
+/* Стили для вложенных списков (подзадания) */
+ul ul {
+    padding-left: 20px; /* Отступ для подменю */
+}
+
+ul ul > li {
+    margin: 5px 0;
+}
+
+/* Адаптивность для мобильных устройств */
+@media (max-width: 600px) {
+    body {
+        padding: 10px;
+    }
+
+    nav {
+        padding: 10px;
+    }
+
+    ul > li > a {
+        font-size: 1em;
+    }
+
+    ul ul {
+        padding-left: 10px;
+    }
+}
